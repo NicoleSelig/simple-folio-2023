@@ -1,0 +1,81 @@
+body {
+    background-color: #262239 !important;
+}
+
+h1 {
+    color: #c0c0c0 !important;
+}
+
+h2 {
+    color: #66d2c1!important;
+}
+
+h3 {
+    color: #66d2c1!important;
+}
+
+p {
+    color: #c0c0c0 !important;
+    font-family: 'Montserrat' !important;
+    line-height: 1.5 !important;
+    margin-top: 50px !important;
+}
+
+
+/* #title {
+    background-color: #262239;
+} */
+
+#title h1 {
+    font-family: 'Annie Use Your Telescope';
+    font-weight: bold;
+    font-size: 10rem;
+    color: #c0c0c0;
+}
+
+#title .row {
+    margin-left: 100px;
+}
+
+#title .declaration {
+    font-size: 4rem;
+    margin-left: 100px;
+    color: #98c2d4 !important;
+
+}
+
+#title .currentEmployerLink {
+    font-family: 'Source Code Pro';
+    color: #66d2c1 !important;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+#title h2 {
+    font-family: 'Source Code Pro';
+    color: #5ac9bb;
+    line-height: 1.5;
+}
+
+#title h3 {
+    font-family: 'Source Code Pro';
+    color: #5ac9bb;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.nav-bar {
+    padding: 5em;
+}
+
+#resumeButton {
+    font-family: 'Source Code Pro';
+    color:#5ac9bb;
+    border-color: #5ac9bb;
+}
+
+#resumeButton:hover {
+    color: #262239;
+    background-color: #5ac9bb;
+    border-color: #5ac9bb;
+}
